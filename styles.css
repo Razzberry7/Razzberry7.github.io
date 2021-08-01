@@ -1,4 +1,6 @@
 body {
   color:#FFFFFF;
-  font-family: Berlin
+  font-family: Berlin;
+  background-image: url("../Tortoise-Shell.svg");
+  background-color: #353535;
 }
