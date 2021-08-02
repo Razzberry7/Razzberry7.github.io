@@ -65,3 +65,12 @@ a:hover {
 .navbar a.active {
   color: #6AB547;
 }
+
+.avatar {
+  border-radius: 50%;
+  border: 10px;
+  border-style:solid;
+  border-color:#6AB547;
+  width: 300px;
+  height: auto;
+}
