@@ -71,8 +71,6 @@ a:hover {
   background-color: #6AB547;
 }
 
-
-
 .avatar {
   border-radius: 50%;
   border: 10px;
@@ -80,4 +78,25 @@ a:hover {
   border-color:#6AB547;
   width: 300px;
   height: auto;
+}
+
+.avatar2 {
+  background-color: #FFFFFF;
+  border-radius: 10%;
+  border: 5px;
+  border-style:solid;
+  border-color:#D2D7DF;
+  width: 500px;
+  height: auto;
+}
+
+.column {
+  padding-left: 50px;
+  padding-right: 50px;
+}
+
+.row {
+  display: flex;
+  flex-flow: row nowrap;
+  justify-content: center;
 }
