@@ -85,14 +85,13 @@ a:hover {
   border-radius: 10%;
   border: 5px;
   border-style:solid;
-  border-color:#D2D7DF;
-  width: 500px;
-  height: auto;
+  border-color:#6AB547;
 }
 
 .column {
-  padding-left: 50px;
-  padding-right: 50px;
+
+  flex-flow: column;
+  justify-content: center;
 }
 
 .row {
